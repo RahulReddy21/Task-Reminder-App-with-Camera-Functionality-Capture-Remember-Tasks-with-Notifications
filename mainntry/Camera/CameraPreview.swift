@@ -1,9 +1,4 @@
-//
-//  CameraPreview.swift
-//  mainntry
-//
-//  Created by Irem Nur Arslaner on 09/11/24.
-//
+
 
 import SwiftUI
 import AVFoundation
