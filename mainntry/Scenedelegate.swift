@@ -1,10 +1,4 @@
 
-//
-//  Scenedelegate.swift
-//  mainntry
-//
-//  Created by Palle Supriya on 13/11/24.
-//
 import SwiftUI
 import UserNotifications
 
