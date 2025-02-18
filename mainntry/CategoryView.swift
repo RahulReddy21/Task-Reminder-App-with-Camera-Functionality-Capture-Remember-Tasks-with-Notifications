@@ -1,18 +1,4 @@
-//
-//  CategoryView.swift
-//  mainntry
-//
-//  Created by Palle Supriya on 15/11/24.
-//
-
-//
-//  CategoryView.swift
-//  design
-//
-//  Created by Irem Nur Arslaner on 12/11/24.
-//
-
-                
+      
                 
                 
                 
