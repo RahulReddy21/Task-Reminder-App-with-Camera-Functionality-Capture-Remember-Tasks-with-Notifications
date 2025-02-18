@@ -1,9 +1,4 @@
-//
-//  CardBoardView.swift
-//  mainntry
-//
-//  Created by Irem Nur Arslaner on 12/11/24.
-//
+
 
 import SwiftUI
 
