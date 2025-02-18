@@ -1,16 +1,4 @@
-//
-//  OfficeCardView.swift
-//  mainntry
-//
-//  Created by Palle Supriya on 15/11/24.
-//
 
-//
-//  OfficeCardView.swift
-//  design
-//
-//  Created by Irem Nur Arslaner on 11/11/24.
-//
 
 import SwiftUI
 
